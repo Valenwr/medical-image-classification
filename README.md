@@ -15,7 +15,7 @@ This project involves the development of a deep learning model for classifying m
 
 ### Installation
 You can install the required packages using pip:
-\```bash
+\```
 pip install tensorflow keras numpy matplotlib seaborn scikit-learn
 \```
 
